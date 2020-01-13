@@ -16,7 +16,7 @@ export class TeamMembers extends Component {
     return (
       <Row>
         <Row className="m-5">
-          <Col className="" xs={{ span: 8, offset: 2 }}>
+          <Col className="" xs={{ span: 8, offset: 2 }} lg={{ span: 8, offset: 5 }} >
             <Card
               style={{
                 backgroundColor: "#fff0",
